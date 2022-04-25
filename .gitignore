@@ -40,4 +40,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # config
-/config/development.yaml
+/config
